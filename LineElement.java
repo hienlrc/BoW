@@ -13,7 +13,6 @@ import java.util.Objects;
 
 /**
  *
- * @author souris morte
  */
 public class LineElement {
 
