@@ -1,5 +1,5 @@
 # BoW
-# code java for bow with vntokenizer by java
+# Code java for BoW with vnTokenizer
 
 <br>Cách sử dụng là tạo ra một project mới với các thành phần đã được tạo sẵn code
 <br>Chú ý cần thêm thư viện vnTokenizer trước khi thực hiện tạo các file .java
